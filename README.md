@@ -49,7 +49,3 @@ Simply open the `index.html` file in your browser.
 
 This is one of my beginner projects made while learning frontend development and building real-world applications.
 The goal of this project was to learn how camera features, filters, and UI interactions work in web development.
-
-## 🤍 Author
-
-Made with creativity and curiosity by Sanjukta.
